@@ -4,11 +4,11 @@
             <FinanceForm />
             <FinanceSettingsForm />
         </div>
-            <div class="finance-wrapper">
-                <FinanceChart />
-                <FinanceList />
-            </div>
+        <div class="finance-wrapper">
+            <FinanceChart />
+            <FinanceList />
         </div>
+    </div>
 </template>
 
 <script setup>
